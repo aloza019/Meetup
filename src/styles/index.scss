@@ -1,3 +1,53 @@
 /* 
     General Styles
 */
+.card {
+    max-width: 35rem;
+    margin: auto;
+}
+button {
+    float: right;
+    
+}
+.copyrights {
+margin-top: 60px;
+color: white;
+background-color: #343a40 !important;
+text-align: center;
+padding-top: 25px;
+}
+
+
+.userlog {
+    max-width: 250px;
+}
+.imgmeeting {
+    max-width: 650px;
+}
+.card-img-top{
+    max-width: 700px;
+}
+#location {
+    color: rgb(13, 130, 184);
+}
+.jumbotron {
+    padding-top:25px;
+}
+.card-event {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.meetingbox {
+    float: right;
+    margin-top: 200px;
+    color: white;
+    background-color: rgb(168, 159, 159);
+    max-height: 150px;
+    max-width: 250px;
+}
+i {
+  font-size: 40px;
+}
+.card-icons {
+    margin-top: 2px;
+}
